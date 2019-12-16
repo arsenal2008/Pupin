@@ -3,3 +3,9 @@ h1 {
     font-family: sans-serif;
     font-size: 22pt;
 }
+
+P {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
