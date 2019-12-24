@@ -43,11 +43,10 @@
     
     aside {
         display: inline-block;
-        width: 336px;
+        width: 337px;
         vertical-align: top;
         padding: 0 0 38px 8px;
         border-bottom: 1px solid rgb(163, 146, 146);
-        border-left: 1px solid gray;
         border-right: 1px solid gray;
         font-family: serif;
         font-size-adjust: 16px;
